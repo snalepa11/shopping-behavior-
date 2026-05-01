@@ -5,7 +5,7 @@
 What are 6 analytical questions you can ask about this dataset?
 
 - What are the most popular products?
-  The most popular product is dresses, followed by leggings
+  The most popular product is leggings, followed by dresses
 - Are more seasons more profitable that others?
   Winter is the most profitable season for this company
 - Is the data complete and reliable?
