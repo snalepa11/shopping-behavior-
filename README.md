@@ -47,3 +47,7 @@ Several key findings came to light in the course of this investigation:
    Yes Promo Code $50.067480
 
 8. When do users leave a review?
+
+- Users left the most reviews in Winter
+- Top 3 reviewes items are: sunglasses, running shoes, and dresses
+- Shoppers who purchased items in the 20-30 dollar range left the highest percentage of reviews at approximately 38.21%
